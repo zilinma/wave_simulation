@@ -1,5 +1,7 @@
 '''
     Simple evolvement for a function.
+    Printed values are: 1. The energy of the system, which should remain constant. 2. The heigh of the central point. 
+    Should be 0 after the wave is restored. 
 '''
 import random
 import numpy as np
