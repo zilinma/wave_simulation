@@ -6,5 +6,5 @@ The localization of classical waves in linear and nonlinear disordered media has
 
 ## poster at SVURS* and APS* March Meeting, 2017
 ![Poster](https://github.com/zilinma/wave_simulation/blob/master/PosterWaveSim.pdf)
-* SUSQUEHANNA VALLEY UNDERGRADUATE RESEARCH SYMPOSIUM
+* Susquehanna Valley Undergraduate Research Symposium
 * American Physical Society
